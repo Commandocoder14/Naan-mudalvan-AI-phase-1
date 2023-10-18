@@ -1,4 +1,4 @@
-# Naan-mudalvan-AI-phase-1
+# Naan-mudalvan-AI
 
 Project 3: Create a chatbot in Python
  Bookmark this page
